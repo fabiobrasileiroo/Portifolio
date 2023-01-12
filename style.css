@@ -1,0 +1,20 @@
+@charset "UTF-8";
+
+body {
+    background-color: #222122;
+}
+h1{
+    color: rgb(255, 255, 255);
+}
+h2{
+    color: aliceblue;
+}
+p{
+    color: aliceblue;
+}
+a{
+    color: rgb(129, 177, 226);
+}
+li{
+    color: aliceblue;
+}
