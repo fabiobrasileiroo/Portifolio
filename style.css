@@ -33,6 +33,21 @@ h2{
 }
 a{
     color: rgb(7, 114, 114);
+    text-decoration: none;
+    font-weight: bold;
+}
+
+a:visited {
+    color: rgb(9, 66, 66);
+}
+
+a:hover {
+    color: black;
+    text-decoration: underline;
+}
+
+a:active {
+    color: rgb(83, 255, 255);
 }
 p{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
