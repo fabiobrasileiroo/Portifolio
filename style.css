@@ -19,7 +19,9 @@ main {
     margin: auto;
 }
 span{
+    max-width: 640px ;
     margin: 0px 0px 0px -9px;
+
 }
 
 h1{
